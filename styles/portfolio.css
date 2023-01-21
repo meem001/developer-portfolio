@@ -115,3 +115,59 @@ font-size: 20px;
 font-size: 20px;
 color: #757575;
 }
+
+
+
+/* WHAT I DO STYLES */
+.section{
+    text-align: center;
+    margin-top: 136 px;
+    margin-bottom: 30px;
+}
+.txt{
+    font-weight: 400;
+font-size: 18px;
+color: #757575;
+text-align: center;
+margin-left: 260px;
+margin-right: 260px;
+margin-bottom: 50px;
+}
+
+#mm{
+    width: 40px;
+height:40px;
+left: 1100px;
+top: 100px;
+right: 30px;
+margin-bottom: 10px;
+}
+#mn{
+    width: 40px;
+height:40px;
+left: 1100px;
+top: 100px;
+right: 30px;
+margin-bottom: 10px;
+}
+#mo{
+    width: 40px;
+height:40px;
+left: 1100px;
+top: 100px;
+right: 30px;
+margin-bottom: 10px;
+}
+
+#mp{
+    width: 40px;
+height:40px;
+left: 1100px;
+top: 100px;
+right: 30px;
+margin-bottom: 10px;
+}
+.whatido{
+    display: flex;
+    flex-direction: row;
+}
